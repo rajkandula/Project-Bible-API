@@ -4,23 +4,21 @@
 https://github.com/rajkandula/Project-Bible-API/assets/112989454/3a531e5b-894c-440d-878a-c39dc18de30d
 
 
-<img width="1440" alt="Screenshot 2024-04-04 at 3 26 37 AM" src="https://github.com/rajkandula/Project-Bible-API/assets/112989454/e8e292a8-5181-4eb6-9a2a-ae44b5636d74">
-
-
-
 ## What We Offer 
 Offering a software website for free Bible reading, daily verse, community management, account management, BibleGPT, games, ad-free experience, and no subscriptions 
 
-### Enhanced User Experience: Continuously refine the user interface and experience based on user feedback to ensure ease of use and accessibility.
-### Accessibility Features: Implement features to cater to users with disabilities, such as screen readers and high contrast modes.
-### Offline Access: Allow users to download content for offline reading, especially useful in areas with limited internet access.
-### Language Support: Offer the platform in multiple languages to reach a broader audience.
-### Audio Versions: Provide audio recordings of Bible passages for users who prefer listening over reading.
-### Collaborative Features: Enable users to collaborate on Bible studies, share insights, and discuss passages in real-time.
-### Content Expansion: Regularly update and expand the content library with additional Bible versions, study materials, and resources.
-### Personalized Recommendations: Utilize machine learning algorithms to suggest personalized Bible verses, study plans, and relevant content based on user preferences and reading history.
+Enhanced User Experience: Continuously refine the user interface and experience based on user feedback to ensure ease of use and accessibility.
+Accessibility Features: Implement features to cater to users with disabilities, such as screen readers and high contrast modes.
+Offline Access: Allow users to download content for offline reading, especially useful in areas with limited internet access.
+Language Support: Offer the platform in multiple languages to reach a broader audience.
+Audio Versions: Provide audio recordings of Bible passages for users who prefer listening over reading.
+Collaborative Features: Enable users to collaborate on Bible studies, share insights, and discuss passages in real-time.
+Content Expansion: Regularly update and expand the content library with additional Bible versions, study materials, and resources.
+Personalized Recommendations: Utilize machine learning algorithms to suggest personalized Bible verses, study plans, and relevant content based on user preferences and reading history.
 
 # project link: https://freebible-6aada.web.app/
+
+<img width="1440" alt="Screenshot 2024-04-04 at 3 26 37 AM" src="https://github.com/rajkandula/Project-Bible-API/assets/112989454/e8e292a8-5181-4eb6-9a2a-ae44b5636d74">
 
 
 # Bible Home page
