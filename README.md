@@ -5,16 +5,9 @@ https://github.com/rajkandula/Project-Bible-API/assets/112989454/3a531e5b-894c-4
 
 
 ## What We Offer 
-Offering a software website for free Bible reading, daily verse, community management, account management, BibleGPT, games, ad-free experience, and no subscriptions 
+Get free access to Bible software featuring Bible Reading, daily verses, community and account management, BibleGPT, games, an ad-free experience, and no subscriptions.
 
-Enhanced User Experience: Continuously refine the user interface and experience based on user feedback to ensure ease of use and accessibility.
-Accessibility Features: Implement features to cater to users with disabilities, such as screen readers and high contrast modes.
-Offline Access: Allow users to download content for offline reading, especially useful in areas with limited internet access.
-Language Support: Offer the platform in multiple languages to reach a broader audience.
-Audio Versions: Provide audio recordings of Bible passages for users who prefer listening over reading.
-Collaborative Features: Enable users to collaborate on Bible studies, share insights, and discuss passages in real-time.
-Content Expansion: Regularly update and expand the content library with additional Bible versions, study materials, and resources.
-Personalized Recommendations: Utilize machine learning algorithms to suggest personalized Bible verses, study plans, and relevant content based on user preferences and reading history.
+Improve user experience based on feedback, with features like a bible reading page, allow offline access, offer multiple languages, provide audio versions, enable collaboration, expand the content library, and suggest personalized content using machine learning algorithms.
 
 # project link: https://freebible-6aada.web.app/
 
